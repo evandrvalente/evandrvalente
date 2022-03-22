@@ -37,7 +37,7 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=evandrvalente&include_all_commits=true&show_icons=true&theme=vision-friendly-dark" alt="evandrvalente's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=evandrvalente&count_private=true&include_all_commits=true&show_icons=true&theme=vision-friendly-dark" alt="evandrvalente's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evandrvalente&layout=compact&theme=vision-friendly-dark" alt="evandrvalente's most languages"/>
 </p>
 
