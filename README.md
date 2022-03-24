@@ -56,9 +56,9 @@
  <img align="center" src="https://img.shields.io/badge/-dev_evandrvalente-05122A?style=for-the-badge&logo=instagram" alt="instagram"/>
 </a>
 </p>
-
+<a href="https://twitter.com/evandrvalente" target="_blank">
 <img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=evandrvalente&layout=wide&show_reply=off&show_retweet=off" />
-
+<a>
 <!--
 Here are some ideas to get you started:
 
