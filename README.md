@@ -52,7 +52,7 @@
 <a href="https://linkedin.com/in/evandrovalente" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-evandrovalente-05122A?style=for-the-badge&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://instagram.com/dev_evandrvalente" target="_blank">
+<a href="https://instagram.com/evandr.valente" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-dev_evandrvalente-05122A?style=for-the-badge&logo=instagram" alt="instagram"/>
 </a>
 </p>
