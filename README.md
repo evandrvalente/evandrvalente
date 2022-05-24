@@ -46,8 +46,8 @@
 ## 🔗 &nbsp;Social Links
 
 <p align="left" style="background:yellow">
-<a href="https://twitter.com/evandrvalente" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-evandrvalente-05122A?style=for-the-badge&logo=twitter" alt="twitter"/>  
+<a href="https://twitter.com/dev_joyboy" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-dev_joyboy-05122A?style=for-the-badge&logo=twitter" alt="twitter"/>  
 </a>
 <a href="https://linkedin.com/in/evandrovalente" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-evandrovalente-05122A?style=for-the-badge&logo=linkedin" alt="linkedin"/>
