@@ -53,11 +53,11 @@
   <img align="center" src="https://img.shields.io/badge/-evandrovalente-05122A?style=for-the-badge&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/evandr.valente" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-dev_evandrvalente-05122A?style=for-the-badge&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/-evandr.valente-05122A?style=for-the-badge&logo=instagram" alt="instagram"/>
 </a>
 </p>
-<a href="https://twitter.com/evandrvalente" target="_blank">
-<img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=evandrvalente&layout=wide&show_reply=off&show_retweet=off" />
+<a href="https://twitter.com/dev_joyboy" target="_blank">
+<img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=dev_joyboy&layout=wide&show_reply=off&show_retweet=off" />
 <a>
 <!--
 Here are some ideas to get you started:
