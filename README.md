@@ -20,7 +20,7 @@
 
 <br><br>
 
-## :envelope: Contact
+## :mailbox: Contact
 
 - evandr.valente@gmail.com
 
