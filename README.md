@@ -20,6 +20,12 @@
 
 <br><br>
 
+## :envelope: Contact
+
+- evandr.valente@gmail.com
+
+<br><br>
+
 ## 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=square&logo=javascript)&nbsp;
