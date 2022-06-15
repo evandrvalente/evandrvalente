@@ -63,7 +63,7 @@
 </a>
 </p>
 <a href="https://twitter.com/evandrvalente" target="_blank">
-<img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=dev_joyboy&layout=wide&show_reply=off&show_retweet=off" />
+<img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=evandrvalente&layout=wide&show_reply=off&show_retweet=off" />
 <a>
 <!--
 Here are some ideas to get you started:
