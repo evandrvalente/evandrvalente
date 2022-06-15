@@ -52,8 +52,8 @@
 ## 🔗 &nbsp;Social Links
 
 <p align="left" style="background:yellow">
-<a href="https://twitter.com/dev_joyboy" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-dev_joyboy-05122A?style=for-the-badge&logo=twitter" alt="twitter"/>  
+<a href="https://twitter.com/evandrvalente" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-evandrvalente-05122A?style=for-the-badge&logo=twitter" alt="twitter"/>  
 </a>
 <a href="https://linkedin.com/in/evandrovalente" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-evandrovalente-05122A?style=for-the-badge&logo=linkedin" alt="linkedin"/>
@@ -62,7 +62,7 @@
  <img align="center" src="https://img.shields.io/badge/-evandr.valente-05122A?style=for-the-badge&logo=instagram" alt="instagram"/>
 </a>
 </p>
-<a href="https://twitter.com/dev_joyboy" target="_blank">
+<a href="https://twitter.com/evandrvalente" target="_blank">
 <img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=dev_joyboy&layout=wide&show_reply=off&show_retweet=off" />
 <a>
 <!--
