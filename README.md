@@ -5,7 +5,6 @@
 
 - 🔥 Web Development Student focused on make a difference in my community 
 
-- 🌱 I’m currently studying at [Trybe](https://www.betrybe.com/)
 <!--
 - 👨‍💻 All of my projects are available at [my portfolio](https://evandrvalente.github.io/)
 -->
