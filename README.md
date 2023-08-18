@@ -13,7 +13,7 @@
 
 - 🌿 ESG enthusiast 
 
-- 💬 Ask me about **JavaScript, HTML, CSS, React**
+- 💬 Ask me about **JavaScript, HTML and CSS**
 
 - ⚡ Fun fact: **Bionic right arm 😜**
 
